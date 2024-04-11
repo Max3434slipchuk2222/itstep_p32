@@ -1,0 +1,41 @@
+.modal_block2{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+.modal_block2_block{
+    display: flex;
+    flex-direction: row;
+}
+.modal_block2_block img{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 16px;
+    margin-right: 10px;
+}
+.block{
+    background-color: #85cf52;
+    border-radius:15px ;
+    padding: 5px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.image{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 190px;
+    left: -148px;
+    z-index: 10;
+}
+.modal_block1{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.modal_block1 img{
+    margin-top: 10px;
+    margin-left: 5px;
+}

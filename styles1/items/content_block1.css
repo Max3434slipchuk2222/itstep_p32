@@ -1,0 +1,21 @@
+.content_block1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+  width: 40%;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.content_block1 img {
+  width: 200px;
+  height: 200px;
+}
+
+.content_block1 div:nth-child(2) {
+  width: 20%;
+}/*# sourceMappingURL=content_block1.css.map */
